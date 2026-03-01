@@ -3,5 +3,5 @@ package feature2
 import "fmt"
 
 func Feature2() {
-	fmt.Println("feature 2 test")
+	fmt.Println("Feature 2 test")
 }
